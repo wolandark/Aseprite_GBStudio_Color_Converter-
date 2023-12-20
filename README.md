@@ -1,4 +1,11 @@
-# Aseprite_Palette_Reducer
+# Aseprite GBStudio Color Converter
+This is a modified version of the original script. This version reduces the colors of any given image, into Gameboy colors. 
+
+# Compatibility with Gameboy Color Palettes
+This version of the script is optimized for use with Gameboy Color (GBC) color palettes. It offers 100% compatibility with GB Studio's background and sprite color palettes while retaining the flexibility to work with other color schemes.
+
+# Original README
+## Aseprite_Palette_Reducer
  This tool is designed to reduce/convert the current palette of the active sprite to a custom input palette. This is ideal for workflows that generate large palette sizes, or just for cleaning up existing artwork :)
  It works by analyzing the pixels of the current project and converting them to one of the input colors. It will swap to the color of the custom palette closest to its own value (either RBG or LAB values).
 
