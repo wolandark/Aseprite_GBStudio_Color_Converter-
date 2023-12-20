@@ -1,9 +1,10 @@
-# Aseprite GBStudio Color Converter
+# Aseprite GB Studio Color Converter
 This is a modified version of the original script. This version reduces the colors of any given image, into Gameboy colors. 
 
 # Compatibility with Gameboy Color Palettes
 This version of the script is optimized for use with Gameboy color palettes. It offers 100% compatibility with GB Studio's background and sprite color palettes.
 <br>
+
 ![image](https://github.com/wolandark/Aseprite_GBStudio_Color_Converter-/assets/107309764/117eeabb-65f4-4d37-a7f0-d0ff40664b67)
 ![image](https://github.com/wolandark/Aseprite_GBStudio_Color_Converter-/assets/107309764/65ce38d9-6040-40ff-9f86-b363b64e1503)
 ![image](https://github.com/wolandark/Aseprite_GBStudio_Color_Converter-/assets/107309764/8691e8cb-e69a-468f-8cda-907463cd7c57)
